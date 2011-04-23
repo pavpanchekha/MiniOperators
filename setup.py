@@ -9,7 +9,7 @@ setup(
     license="LICENSE.txt",
     url="http://pypi.python.org/pypi/MiniOperators/",
     description="Miniature operators for Python",
-    long_description=open("README.txt").read(),
+    long_description=open("README.rst").read(),
 
     classifiers=[
         "Development Status :: 4 - Beta",
