@@ -1,6 +1,9 @@
 MiniOperators for Python
 ========================
 
+**Warning**: This library is deprecated. It will not be updated again,
+ though it may continue to work.
+
 This library makes it almost trivial to add extended operators to the python
 language, or to transform existing functions into binary operators. For
 example, one might take the function ``compose``::
